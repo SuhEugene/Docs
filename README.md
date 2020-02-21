@@ -18,7 +18,7 @@
 
 Пример:
 ```js
-const taxi = new Taxi(poll, 23)
+const taxi = new Taxi(pool, 23)
 ```
 
 **getPool()**
