@@ -5,7 +5,7 @@
 - **YELLOW** - жёлтая ветка
 - **GREEN** - зелёная ветка
 - **BLUE** - синяя ветка
-- **Point(name, x, z, line)** - Объект `{name:string, x:int, z:int, line:int[0-3]}`
+- **Point(name, x, z, line)** - возвращает объект `{name:string, x:int, z:int, line:int[0-3]}`
 
 ## class Taxi
 **Переменные класса**
